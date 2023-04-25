@@ -1,0 +1,4 @@
+Sitemap: https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/sitemap.xml
+
+User-agent: *
+Disallow:
